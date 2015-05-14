@@ -1,0 +1,116 @@
+body {
+	line-height: 8px;
+	background-color: #f0dc82;
+}
+
+
+#resGrid {
+	display: inline-block;
+	position: relative;
+	left: 338px;
+	line-height: 20px;
+	text-align: center;
+	margin-bottom: 10px;
+	padding: 5px;
+	background-color: #8eacb0;
+	border: solid;
+	border-width: 2px;
+	border-color: #5e4b83;
+	font-family: Palatino Linotype;
+}
+
+#resGrid:hover {
+	cursor: pointer;
+}
+
+#blueButton {
+	display: inline-block;
+	position: relative;
+	line-height: 20px;
+	padding: 5px;
+	background-color: #005b96;
+	border: solid;
+	border-width: 2px;
+	border-color: #011f4b;
+	font-family: Palatino Linotype;
+	color: white;
+}
+
+#blueButton:hover {
+	cursor: pointer;
+}
+
+#greenButton {
+	display: inline-block;
+	position: relative;
+	left: 666px;
+	line-height: 20px;
+	padding: 5px;
+	background-color: #74d600;
+	border: solid;
+	border-width: 2px;
+	border-color: #028900;
+	font-family: Palatino Linotype;
+	color: #845422;
+}
+
+#greenButton:hover {
+	cursor: pointer;
+}
+
+#blueButton:active, #greenButton:active, #resGrid:active {
+	top: 1px;
+}
+
+#resetRed {
+	position: relative;
+	display: inline-block;
+	bottom: 980px;
+	width: 50px;
+	height: 50px;
+	margin-left: 5px;
+	background-color: #ff4747;
+	border: solid;
+	border-radius: 30px;
+	border-width: 2px;
+	border-color: #b30000;
+	font: bold 12px Palatino Linotype, sans-serif;
+
+}
+
+#resetRed:hover {
+	cursor: pointer;
+}
+
+
+#container {
+	width: 1024px;
+	height: 1024px;
+	border-width: 1px;
+   	border-style: solid;
+   	display: inline-block;
+   	background-color: #e7feff;
+}
+
+.defsquares {
+	position: relative;
+	display: inline-block;
+    border-style: solid;
+    border-width: 1px;
+    padding: 0;
+    margin: 0;
+}
+
+
+.red {
+	background-color: red;
+}
+
+
+#image {
+	position: fixed;
+	display: inline-block;
+	float: right;
+	bottom: 30px;
+	right: 40px;
+}
