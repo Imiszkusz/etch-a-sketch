@@ -90,14 +90,3 @@ $(document).ready(function() {
 
 	});
 
-
-
-
-
-
-
-
-
-// valahogy azt kéne elérni, hogy egy adott konténeren belül, adott
-// pixelszámon belül akárhány négyzetből áll rácsot tudjunk generálni,
-// gombnyomásra.
