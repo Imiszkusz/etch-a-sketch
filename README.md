@@ -1,4 +1,13 @@
-# etch-a-sketch
-Etch-a-sketch-like grid created with Javascript
+# Project Title
+Etch-a-Sketch
 
-https://github.com/Imiszkusz/etch-a-sketch
+## Built With
+HTML/CSS/Pure JS
+
+## Live View
+Currently not available
+
+##Notes
+I made this in 2015 and now it needs a few fixes in order to function normally.
+
+
